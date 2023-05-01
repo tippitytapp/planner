@@ -1,0 +1,19 @@
+{
+  "name": "wheres_my_money_be",
+  "version": "1.0.0",
+  "description": "backend to wheres my money",
+  "main": "index.js",
+  "author": "Marc Tapp marc.tapp@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.1.5",
+    "knex": "^2.4.2",
+    "knex-cleaner": "^1.3.1",
+    "nodemon": "^2.0.22",
+    "pg": "^8.10.0"
+  }
+}
